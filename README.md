@@ -1,6 +1,3 @@
-# afni_scripts
-Scripts for afni pre-proc and analysis
-
 # create_roi.sh
     Create a spherical volume.
     argv[1] = X coordinates
